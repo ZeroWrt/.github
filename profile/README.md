@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="./doc/zerowrt.png" alt="ZeroWrt" width="1000"/>
+  <img src="./images/zerowrt.png" alt="ZeroWrt" width="1000"/>
 </p>
 
 ---
