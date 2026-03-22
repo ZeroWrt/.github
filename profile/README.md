@@ -1,5 +1,5 @@
 <p align="center">
-  基于 <strong>ImmortalWrt</strong> 平台，新增对更多设备的兼容性，同时支持 <strong>IPQ 系列处理器</strong> 的 <strong>NSS 硬件加速</strong>。
+  基于 <strong>ImmortalWrt</strong> 平台，新增对更多设备的兼容性，同时支持 <strong>IPQ 系列处理器</strong> 的 <strong>NSS 硬件加速</strong>,<strong>个人自用</strong>。
 </p>
 
 <!-- 技能图标/支持设备 -->
